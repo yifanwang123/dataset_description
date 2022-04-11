@@ -101,3 +101,11 @@ The dataset includes full text of the articles, labels indicating their type (fa
 
 **Twitter Debunking Information Dataset**  (2.6GB)  
 This dataset is the complete tweets dataset retrieved between 04/17 to 09/17 from Twitter, which is about Snopes debunking information related tweets. Totally it contains 215 rumors topics with over 0.5 million tweets. 
+
+
+## Network Social Media Data
+
+**Weibo Information Dataset** 
+This dataset includes five parts: Following network, Retweet behaviors with retweet content, User profile, User id map and Tweet and Retweets with indexed content. 
+Reference: https://www.aminer.cn/influencelocality
+
